@@ -43,10 +43,10 @@ Use a modern C compiler:
 
 ```bash
 # Builder
-gcc -O2 -std=c17 -Wall -Wextra mkfs_builder.c -o mkfs_builder
+gcc mkfs_builder.c -o mkfs_builder
 
 # Adder
-gcc -O2 -std=c17 -Wall -Wextra mkfs_adder.c   -o mkfs_adder
+gcc mkfs_adder.c -o mkfs_adder
 ```
 
 > Some environments may require linking with `-static` or adding platform headers—follow your spec.
