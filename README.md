@@ -7,8 +7,6 @@
 
 This project is great for learning real file-system layout (superblock, bitmaps, inodes, data blocks) without the heavy machinery.
 
-> Please refer to the source code and your original project specification for authoritative details.
-
 ---
 
 ## ✨ Highlights
