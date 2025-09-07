@@ -163,15 +163,6 @@ Now `out2.img` contains `/hello.txt`.
 
 ---
 
-## 📎 Optional Extras (if you add them)
-
-* `--seed <u64>` for deterministic allocation starting offsets (inode/data bitmaps)
-* Deterministic timestamps derived from the seed (for fully reproducible images)
-
-Document any extras you implement in the CLI help and here.
-
----
-
 ## 📜 License & Credits
 
 Use any license that matches your course or project requirements.
